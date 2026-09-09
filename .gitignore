@@ -1,0 +1,25 @@
+# Zotero 导出文件：本地维护，不随仓库同步
+zotero/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.obsidian/
+
+# 临时与备份文件
+*.tmp
+*.bak
+*.orig
+~$*
+
+# PDF 全文（版权原因不入库，请存本地或 Zotero）
+*.pdf
